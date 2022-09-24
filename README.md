@@ -1,6 +1,6 @@
 # LINK TO THE VIDEO PROJECT :D!! :
 
-https://vimeo.com/753155195
+https://vimeo.com/753154074/6c3a5dc219
 
 # Getting Started with Create React App
 
